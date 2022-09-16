@@ -1,5 +1,5 @@
 # emoji-interpreter2
 
-This app is built with CodeSandbox and Reactjs. 
+This app is built with CodeSandbox and ReactJs. 
 
 It will let the user know the meaning of a single emoji on clicking on that emoji or pasting in the input area provided.
